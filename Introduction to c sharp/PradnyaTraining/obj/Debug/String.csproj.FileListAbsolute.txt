@@ -1,0 +1,8 @@
+F:\Atrina\PradnyaTraining\PradnyaTraining\bin\Debug\PradnyaTraining.exe.config
+F:\Atrina\PradnyaTraining\PradnyaTraining\bin\Debug\PradnyaTraining.exe
+F:\Atrina\PradnyaTraining\PradnyaTraining\bin\Debug\PradnyaTraining.pdb
+F:\Atrina\PradnyaTraining\PradnyaTraining\obj\Debug\String.csproj.AssemblyReference.cache
+F:\Atrina\PradnyaTraining\PradnyaTraining\obj\Debug\String.csproj.SuggestedBindingRedirects.cache
+F:\Atrina\PradnyaTraining\PradnyaTraining\obj\Debug\String.csproj.CoreCompileInputs.cache
+F:\Atrina\PradnyaTraining\PradnyaTraining\obj\Debug\PradnyaTraining.exe
+F:\Atrina\PradnyaTraining\PradnyaTraining\obj\Debug\PradnyaTraining.pdb

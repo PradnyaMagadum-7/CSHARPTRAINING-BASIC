@@ -1,0 +1,3 @@
+F:\Atrina\Introduction to c sharp\Assembly2\obj\Debug\Assembly2.csproj.AssemblyReference.cache
+F:\Atrina\Introduction to c sharp\Assembly2\obj\Debug\Assembly2.csproj.SuggestedBindingRedirects.cache
+F:\Atrina\Introduction to c sharp\Assembly2\obj\Debug\Assembly2.csproj.CoreCompileInputs.cache
