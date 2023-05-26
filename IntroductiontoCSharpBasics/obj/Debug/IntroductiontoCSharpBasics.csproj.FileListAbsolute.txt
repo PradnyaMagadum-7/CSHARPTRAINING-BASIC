@@ -1,0 +1,8 @@
+F:\Atrina\IntroductiontoCSharpBasics\bin\Debug\IntroductiontoCSharpBasics.exe.config
+F:\Atrina\IntroductiontoCSharpBasics\bin\Debug\IntroductiontoCSharpBasics.exe
+F:\Atrina\IntroductiontoCSharpBasics\bin\Debug\IntroductiontoCSharpBasics.pdb
+F:\Atrina\IntroductiontoCSharpBasics\obj\Debug\IntroductiontoCSharpBasics.csproj.AssemblyReference.cache
+F:\Atrina\IntroductiontoCSharpBasics\obj\Debug\IntroductiontoCSharpBasics.csproj.SuggestedBindingRedirects.cache
+F:\Atrina\IntroductiontoCSharpBasics\obj\Debug\IntroductiontoCSharpBasics.csproj.CoreCompileInputs.cache
+F:\Atrina\IntroductiontoCSharpBasics\obj\Debug\IntroductiontoCSharpBasics.exe
+F:\Atrina\IntroductiontoCSharpBasics\obj\Debug\IntroductiontoCSharpBasics.pdb
