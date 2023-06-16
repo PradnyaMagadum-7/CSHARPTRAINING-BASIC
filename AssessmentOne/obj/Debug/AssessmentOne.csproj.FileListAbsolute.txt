@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\AssessmentOne\bin\Debug\AssessmentOne.exe.config
+C:\Users\ADMIN\source\repos\AssessmentOne\bin\Debug\AssessmentOne.exe
+C:\Users\ADMIN\source\repos\AssessmentOne\bin\Debug\AssessmentOne.pdb
+C:\Users\ADMIN\source\repos\AssessmentOne\obj\Debug\AssessmentOne.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\AssessmentOne\obj\Debug\AssessmentOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\AssessmentOne\obj\Debug\AssessmentOne.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\AssessmentOne\obj\Debug\AssessmentOne.exe
+C:\Users\ADMIN\source\repos\AssessmentOne\obj\Debug\AssessmentOne.pdb
